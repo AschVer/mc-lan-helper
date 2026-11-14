@@ -1,0 +1,7 @@
+{
+  "network_name": "mclink-demo",
+  "network_secret": "pick-something-random",
+  "relay": "tcp://1.2.3.4:11010",
+  "vpn_prefix": "10.126.126.",
+  "bridge_port": 25565
+}

@@ -1,0 +1,22 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# ---- 本机状态：含你自己的虚拟 IP ----
+mclink.json
+
+# ---- 房间配置：含中继地址和网络密钥，绝不要提交 ----
+config.json
+
+# ---- EasyTier 二进制（体积大，且不属于本项目）----
+*.exe
+*.dll
+*.sys
+
+# ---- 其它 ----
+dist/
+build/
+*.zip
+.DS_Store
+Thumbs.db
